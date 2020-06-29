@@ -1,0 +1,12 @@
+{
+  "name": "selen-train",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "3.1.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
